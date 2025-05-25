@@ -19,6 +19,7 @@ Make sure you have Java installed on your machine.
 ```bash
 java -version
 ```
+## Procedure to setup snd run the program
 
 1. Clone or Download the Project
 If you haven't already, download or clone the repository to your local machine:
