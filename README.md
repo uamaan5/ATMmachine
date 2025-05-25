@@ -18,4 +18,24 @@ Make sure you have Java installed on your machine.
 
 ```bash
 java -version
+```
 
+1. Clone or Download the Project
+If you haven't already, download or clone the repository to your local machine:
+```bash
+https://github.com/uamaan5/ATMmachine.git
+cd ATMmachine/
+```
+
+2. Compile the Java File
+Open a terminal or command prompt and navigate to the directory containing atm.java, then run:
+```bash
+javac atm.java
+```
+
+3.Run the program
+```bash
+java atm
+```
+
+That's it! You should now see the ATM menu in your terminal.
